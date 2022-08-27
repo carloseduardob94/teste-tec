@@ -13,8 +13,8 @@
 </div>
 
 
-
-<h1 align="center"> Projeto Final ✨</h2>
+<h1 align="center"><a href="https://carloseduardob94.github.io/teste-tec/" target="blank" >Deploy 🌍</a></h1>
+<h1 align="center"> Projeto Final ✨</h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72894980/187046273-f09153d5-b9c0-45f9-bdf5-7478a3092cde.gif" />
