@@ -17,7 +17,7 @@
 <h1 align="center"> Projeto Final ✨</h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72894980/185990247-26ba32ce-0050-40a8-96a9-77c819d9e359.gif" />
+<img src="https://user-images.githubusercontent.com/72894980/187046273-f09153d5-b9c0-45f9-bdf5-7478a3092cde.gif" />
 </p> 
 
 <h2 align="center">Linguagens e Tecnologias usadas ⬇</h2>
