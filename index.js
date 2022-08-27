@@ -65,7 +65,6 @@ class createHTML {
 
       const teste = this.createDiv()
       this.section.append(teste)
-      console.log(ciclo3)
     })
   }
 
