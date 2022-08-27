@@ -24,8 +24,9 @@
 
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer"> <img
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original-wordmark.svg" alt="html" width="60" height="60"/>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original-wordmark.svg" alt="css" width="60" height="60"/>
 </p>
 
