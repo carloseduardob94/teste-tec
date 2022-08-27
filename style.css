@@ -12,14 +12,14 @@ body{
   display: flex;
   flex-direction: column;
   overflow-y: auto;
-  position: relative;
 
 }
 
 header{
-  margin: 20px auto;
+  margin: 10px auto;
   flex-direction: column;
   align-items: center;
+  flex: 1;
 }
 
 header h1{
@@ -45,6 +45,7 @@ main{
   justify-content: center;
   align-items: center;
   margin: 0 auto;
+  flex: 2;
 }
 
 section{
@@ -63,14 +64,16 @@ section h2{
 
   width: 100%;
   border-bottom: 3px solid #D54950;
+
+  margin-bottom: 5px;
 }
 
 section div{
-  margin-top: 10px;
   padding: 0 5px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  position: relative;
+  gap: 5px;
+  
 }
 
 section .div2{
@@ -90,22 +93,24 @@ section .div2 p{
   font-weight: 500 ;
 }
 
-section button{
- position: absolute;
-  margin-top: 220px;
-  margin-left: 70px;
+button{
+  
+ 
+  margin-top: 5px;
 
-  width: 150px;
-  height: 40px;
+  width: 130px;
+  height: 35px;
   border-radius: 20px;
   border: none;
   background-color: #D54950;
   color: #fff;
   font-weight: 500;
   cursor: pointer;
+
+  
 }
 
-section button:hover{
+button:hover{
   animation: shake 0.5s;
 
   /* When the animation is finished, start again */
@@ -117,13 +122,14 @@ footer{
   width: 100%;
   height: 120px;
   justify-content: center;
-  align-self: flex-start;
+  flex: 1;
 }
 
 footer img{
+  align-self: flex-end;
   width: 150px;
   height: 150px;
-  position: absolute;
+  
 }
 
 @keyframes shake {
